@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matrix-labs/static/css/main.1ec2de38.css",
+    "main.js": "/matrix-labs/static/js/main.f974d5cb.js",
+    "static/media/big-cat.png": "/matrix-labs/static/media/big-cat.3b2db94253693d5803e0.png",
+    "static/media/big-bull.png": "/matrix-labs/static/media/big-bull.f6aa638c77259f370991.png",
+    "static/media/image 4.png": "/matrix-labs/static/media/image 4.eec62a186fbf6bec287e.png",
+    "static/media/treasure.png": "/matrix-labs/static/media/treasure.092d2f72bef636a376c9.png",
+    "static/media/Btn (2).png": "/matrix-labs/static/media/Btn (2).68c2c4208923515fc02a.png",
+    "static/media/Btn.png": "/matrix-labs/static/media/Btn.bcfcec6a61e4e0d7c27e.png",
+    "static/media/Btn (1).png": "/matrix-labs/static/media/Btn (1).8456a6a17d347f0662ca.png",
+    "static/media/grey-bg.png": "/matrix-labs/static/media/grey-bg.15b921bd97907fbfffaa.png",
+    "index.html": "/matrix-labs/index.html",
+    "static/media/bg-black.svg": "/matrix-labs/static/media/bg-black.32f5a016a146c40e82a9.svg",
+    "static/media/bg-green.svg": "/matrix-labs/static/media/bg-green.2fc2ed3ac57aff3bee15.svg",
+    "main.1ec2de38.css.map": "/matrix-labs/static/css/main.1ec2de38.css.map",
+    "main.f974d5cb.js.map": "/matrix-labs/static/js/main.f974d5cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec2de38.css",
+    "static/js/main.f974d5cb.js"
+  ]
+}
